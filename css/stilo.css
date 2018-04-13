@@ -1,0 +1,54 @@
+.logo {
+    width: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.divlinks {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    line-height: 25px;
+    border: 0px;
+}
+
+.divcenter {
+    text-align: center;
+}
+
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.geral {
+    background-color: rgb(57, 53, 53);
+    border: 0px;
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+    border: 0px;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+    border: 0px;
+}
+
+.facecolor {
+    background-color: #4267B2;
+    border: 0px;
+}
